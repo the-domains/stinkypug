@@ -1,0 +1,14 @@
+layout_spectrum: 0.22990927612408996
+typography_spectrum: 0.44131411402486265
+color:
+  brandStrength: 0.692125131841749
+  lightness: 0.10654822969809175
+  saturation: 0.050108193885535
+  rhythmicContrast: 0.2350434500258416
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: StinkyPug
