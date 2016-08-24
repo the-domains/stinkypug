@@ -6,9 +6,9 @@ color:
   saturation: 0.050108193885535
   rhythmicContrast: 0.2350434500258416
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 name: StinkyPug
